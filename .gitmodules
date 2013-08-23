@@ -10,3 +10,6 @@
 [submodule "bundle/ctrip.vim"]
 	path = bundle/ctrip.vim
 	url = git://github.com/kien/ctrlp.vim.git
+[submodule "bundle/vim-colors-mango"]
+	path = bundle/vim-colors-mango
+	url = https://github.com/goatslacker/mango.vim.git

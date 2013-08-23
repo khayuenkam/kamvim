@@ -6,3 +6,12 @@ Create symlinks
 
   ln -s ~/.vim/vimrc ~/.vimrc
   ln -s ~/.vim/gvimrc ~/gvimrc
+
+After clone
+  git submodule update --init
+
+Add submodule
+  git submodule add <repo.url> bundle/<new-folder-name>
+
+Install Dependency
+  install Ack
