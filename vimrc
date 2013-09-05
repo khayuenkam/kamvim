@@ -32,7 +32,7 @@ set laststatus=2
 
 syntax enable
 set background=dark
-colorscheme mango
+colorscheme mustang
 filetype plugin indent on
 
 let mapleader=','
