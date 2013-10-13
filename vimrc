@@ -18,9 +18,9 @@ set smartindent
 set incsearch
 set ignorecase
 set smartcase
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
 set showmatch
 set showcmd
 set colorcolumn=80
