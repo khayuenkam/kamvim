@@ -37,4 +37,4 @@ filetype plugin indent on
 
 let mapleader=','
 let g:ctrlp_custom_ignore = '\v[\/](\.(git|hg|svn)|node_modules)$'
-
+inoremap jk <ESC>
