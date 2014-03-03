@@ -40,4 +40,5 @@ inoremap jk <ESC>
 
 let g:ctrlp_custom_ignore = '\v[\/](\.(git|hg|svn)|node_modules)$'
 let g:NERDTreeIgnore=['node_modules$[[dir]]']
+map <leader>n :execute 'NERDTreeToggle ' . getcwd()<CR>
 
