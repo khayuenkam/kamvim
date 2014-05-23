@@ -14,4 +14,4 @@ Add submodule
   git submodule add <repo.url> bundle/<new-folder-name>
 
 Install Dependency
-  install Ack
+  install Ag
