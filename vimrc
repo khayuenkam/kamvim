@@ -30,6 +30,10 @@ set wildmode=list:longest,full
 set guioptions-=T
 set laststatus=2
 
+if $COLORTERM == 'gnome-terminal'
+  set t_Co=256
+endif
+
 syntax enable
 set background=dark
 colorscheme mustang
